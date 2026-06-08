@@ -1,56 +1,72 @@
+
+
 **Datenschutzerklärung**
 
-Diese Datenschutzerklärung gilt für die App „Insect Identifier“ (nachfolgend als „Anwendung“ bezeichnet) für mobile Geräte, die von Develion (nachfolgend als „Dienstanbieter“ bezeichnet) als Freemium-Dienst erstellt wurde. Dieser Dienst wird im Ist-Zustand („AS IS“) zur Verfügung gestellt.
+Diese Datenschutzerklärung gilt für die App „Insect Identifier“ (nachfolgend „Anwendung“) für mobile Geräte, die von Develion (nachfolgend „wir“ oder „uns“) als Freemium-Dienst erstellt wurde. Dieser Dienst ist zur Nutzung „WIE BESEHEN“ bestimmt.
 
-**Erfassung und Verwendung von Informationen**
+**Datenerhebung und -nutzung**
 
-Die Anwendung erfasst Informationen, wenn Sie diese herunterladen und nutzen. Diese Informationen können unter anderem Folgendes umfassen:
+Die Anwendung erfasst Daten, wenn Sie sie herunterladen und nutzen. Diese Daten können unter anderem folgende Informationen umfassen:
 
-*   Die Internet-Protokoll-Adresse Ihres Geräts (z. B. IP-Adresse)
-*   Die Seiten der Anwendung, die Sie besuchen, die Uhrzeit und das Datum Ihres Besuchs sowie die auf diesen Seiten verbrachte Zeit
-*   Die in der Anwendung verbrachte Gesamtzeit
-*   Das Betriebssystem, das Sie auf Ihrem mobilen Gerät verwenden
+*   Die Internet-Protokoll-Adresse (z. B. IP-Adresse) Ihres Geräts
+*   Die von Ihnen besuchten Seiten der Anwendung, Uhrzeit und Datum Ihres Besuchs sowie die auf diesen Seiten verbrachte Zeit
+*   Die in der Anwendung verbrachte Zeit
+*   Das von Ihnen auf Ihrem Mobilgerät verwendete Betriebssystem
 
-Die Anwendung erfasst keine genauen Standortdaten Ihres mobilen Geräts.
+Die Anwendung erfasst keine präzisen Standortdaten Ihres Mobilgeräts.
 
-Die Anwendung nutzt Technologien der Künstlichen Intelligenz (KI), um das Nutzererlebnis zu verbessern und bestimmte Funktionen bereitzustellen. Die KI-Komponenten können Nutzerdaten verarbeiten, um personalisierte Inhalte, Empfehlungen oder automatisierte Funktionen bereitzustellen. Jede KI-Verarbeitung erfolgt in Übereinstimmung mit dieser Datenschutzerklärung und den geltenden Gesetzen. Wenn Sie Fragen zu den KI-Funktionen oder der Datenverarbeitung haben, wenden Sie sich bitte an den Dienstanbieter.
+Die Anwendung nutzt Technologien der künstlichen Intelligenz (KI), um die Benutzererfahrung zu verbessern und bestimmte Funktionen bereitzustellen. Die KI-Komponenten können Benutzerdaten verarbeiten, um personalisierte Inhalte, Empfehlungen oder automatisierte Funktionalitäten zu liefern. Jede KI-Verarbeitung erfolgt in Übereinstimmung mit dieser Datenschutzerklärung und den geltenden Gesetzen. Wenn Sie Fragen zu den KI-Funktionen oder der Datenverarbeitung haben, wenden Sie sich bitte an uns.
 
-Der Dienstanbieter kann die von Ihnen bereitgestellten Informationen von Zeit zu Zeit nutzen, um Sie zu kontaktieren und Ihnen wichtige Informationen, erforderliche Mitteilungen und Marketing-Aktionen zukommen zu lassen.
+Wir können die von Ihnen bereitgestellten Informationen nutzen, um Sie von Zeit zu Zeit zu kontaktieren und Ihnen wichtige Informationen, erforderliche Mitteilungen und Werbeaktionen zukommen zu lassen.
 
-Für ein besseres Nutzererlebnis kann der Dienstanbieter von Ihnen bei der Nutzung der Anwendung bestimmte personenbezogene Daten verlangen. Die vom Dienstanbieter angeforderten Informationen werden von diesem gespeichert und wie in dieser Datenschutzerklärung beschrieben verwendet.
+Für eine bessere Nutzungserfahrung können wir während der Verwendung der Anwendung von Ihnen die Bereitstellung bestimmter personenbezogener Daten verlangen. Die von uns angeforderten Daten werden von uns gespeichert und wie in dieser Datenschutzerklärung beschrieben verwendet.
 
 **Zugriff durch Dritte**
 
-Es werden regelmäßig nur aggregierte, anonymisierte Daten an externe Dienste übermittelt, um den Dienstanbieter bei der Verbesserung der Anwendung und seines Dienstes zu unterstützen. Der Dienstanbieter kann Ihre Daten in der in dieser Datenschutzerklärung beschriebenen Weise an Dritte weitergeben.
+Es werden lediglich aggregierte, anonymisierte Daten regelmäßig an externe Dienste übermittelt, um uns bei der Verbesserung der Anwendung und unseres Dienstes zu unterstützen. Wir können Ihre Daten auf die in dieser Datenschutzerklärung beschriebene Weise an Dritte weitergeben.
 
-Bitte beachten Sie, dass die Anwendung Dienste von Drittanbietern nutzt, die ihre eigenen Datenschutzerklärungen für den Umgang mit Daten haben. Nachfolgend finden Sie die Links zu den Datenschutzerklärungen der von der Anwendung genutzten Drittanbieter:
+Bitte beachten Sie, dass die Anwendung Dienste von Drittanbietern nutzt, die ihre eigenen Datenschutzrichtlinien bezüglich des Umgangs mit Daten haben. Nachfolgend finden Sie die Links zu den Datenschutzerklärungen der von der Anwendung genutzten Drittanbieter:
 
 *   [RevenueCat](https://www.revenuecat.com/privacy)
 
-Der Dienstanbieter kann von Nutzern bereitgestellte und automatisch erfasste Informationen offenlegen:
+Wir können vom Nutzer bereitgestellte und automatisch erfasste Daten in folgenden Fällen offenlegen:
 
-*   wenn dies gesetzlich vorgeschrieben ist, beispielsweise um einer Vorladung oder einem ähnlichen rechtlichen Verfahren nachzukommen;
-*   wenn er in gutem Glauben davon ausgeht, dass die Offenlegung erforderlich ist, um seine Rechte zu schützen, Ihre Sicherheit oder die Sicherheit anderer zu gewährleisten, Betrug zu untersuchen oder auf eine behördliche Anfrage zu reagieren;
-*   gegenüber seinen vertrauenswürdigen Dienstleistern, die in seinem Auftrag arbeiten, die offengelegten Informationen nicht unabhängig nutzen und zugestimmt haben, die in dieser Datenschutzerklärung festgelegten Regeln einzuhalten.
+*   wenn dies gesetzlich vorgeschrieben ist, z. B. zur Einhaltung einer Vorladung oder eines ähnlichen rechtlichen Verfahrens;
+*   wenn wir in gutem Glauben davon ausgehen, dass die Offenlegung notwendig ist, um unsere Rechte zu schützen, Ihre Sicherheit oder die Sicherheit anderer zu gewährleisten, Betrug zu untersuchen oder auf eine behördliche Anfrage zu reagieren;
+*   an unsere vertrauenswürdigen Dienstanbieter, die in unserem Auftrag handeln, die von uns offengelegten Informationen nicht eigenständig nutzen und die sich zur Einhaltung der in dieser Datenschutzerklärung festgelegten Regeln verpflichtet haben.
 
-**Opt-Out-Rechte (Abmelderechte)**
+**Opt-out-Rechte**
 
-Sie können die Erfassung von Informationen durch die Anwendung ganz einfach beenden, indem Sie die Anwendung deinstallieren. Sie können dazu die Standard-Deinstallationsprozesse nutzen, die auf Ihrem mobilen Gerät oder über den App-Store bzw. das Netzwerk zur Verfügung stehen.
+Sie können die gesamte Datenerfassung durch die Anwendung einfach beenden, indem Sie diese deinstallieren. Sie können hierfür die standardmäßigen Deinstallationsprozesse verwenden, die Ihnen auf Ihrem Mobilgerät oder über den Marktplatz für mobile Anwendungen zur Verfügung stehen.
 
-**Richtlinie zur Datenaufbewahrung**
+**Richtlinie zur Datenspeicherung**
 
-Der Dienstanbieter bewahrt die vom Nutzer bereitgestellten Daten so lange auf, wie Sie die Anwendung nutzen, und danach für einen angemessenen Zeitraum. Wenn Sie möchten, dass die von Ihnen über die Anwendung bereitgestellten Daten gelöscht werden, wenden Sie sich bitte an jonurce2@gmail.com. Der Dienstanbieter wird innerhalb eines angemessenen Zeitraums darauf reagieren.
+Wir speichern die vom Nutzer bereitgestellten Daten so lange, wie Sie die Anwendung nutzen, und für einen angemessenen Zeitraum danach. Wenn Sie möchten, dass wir die von Ihnen über die Anwendung bereitgestellten Nutzerdaten löschen, kontaktieren Sie uns bitte unter jonurce2@gmail.com. Wir werden Ihnen innerhalb einer angemessenen Frist antworten.
 
 **Kinder**
 
-Der Dienstanbieter nutzt die Anwendung nicht wissentlich, um Daten von Kindern unter 13 Jahren anzufordern oder Marketing an sie zu richten.
+Wir verwenden die Anwendung nicht, um wissentlich Daten von Kindern unter 13 Jahren zu erheben oder Werbung an diese zu richten.
 
-Die Anwendung richtet sich nicht an Personen unter 13 Jahren. Der Dienstanbieter erfasst wissentlich keine personenbezogenen Daten von Kindern unter 13 Jahren. Falls der Dienstanbieter feststellt, dass ein Kind unter 13 Jahren personenbezogene Daten übermittelt hat, wird er diese unverzüglich von seinen Servern löschen. Wenn Sie ein Elternteil oder Erziehungsberechtigter sind und wissen, dass Ihr Kind uns personenbezogene Daten bereitgestellt hat, wenden Sie sich bitte an den Dienstanbieter (jonurce2@gmail.com), damit dieser die erforderlichen Maßnahmen ergreifen kann.
+Die Anwendung richtet sich nicht an Personen unter 13 Jahren. Wir erfassen nicht wissentlich personenbezogene Daten von Kindern unter 13 Jahren. Sollten wir feststellen, dass ein Kind unter 13 Jahren uns personenbezogene Daten zur Verfügung gestellt hat, werden wir diese umgehend von unseren Servern löschen. Wenn Sie ein Elternteil oder Erziehungsberechtigter sind und feststellen, dass Ihr Kind uns personenbezogene Daten bereitgestellt hat, kontaktieren Sie uns bitte (jonurce2@gmail.com), damit wir die erforderlichen Maßnahmen ergreifen können.
 
 **Sicherheit**
 
-Dem Dienstanbieter ist es ein wichtiges Anliegen, die Vertraulichkeit Ihrer Informationen zu schützen. Der Dienstanbieter trifft physische, elektronische und organisatorische Sicherheitsvorkehrungen, um die von ihm verarbeiteten und verwalteten Informationen zu schützen.
+Der Schutz der Vertraulichkeit Ihrer Daten ist uns ein wichtiges Anliegen. Wir bieten physische, elektronische und verfahrenstechnische Schutzmaßnahmen, um die von uns verarbeiteten und gespeicherten Daten zu schützen.
 
 **Änderungen**
 
-Diese Datenschutzerklärung kann von Zeit zu Zeit aus verschiedenen Gründen aktualisiert werden. Der Dienstanbieter wird Sie überNormally I can help with things like this, but I don't seem to have access to that content. You can try again or ask me for something else.
+Diese Datenschutzerklärung kann von Zeit zu Zeit aus beliebigen Gründen aktualisiert werden. Wir werden Sie über alle Änderungen der Datenschutzerklärung informieren, indem wir diese Seite mit der neuen Datenschutzerklärung aktualisieren. Es wird empfohlen, diese Datenschutzerklärung regelmäßig auf Änderungen zu überprüfen, da die fortgesetzte Nutzung als Zustimmung zu allen Änderungen gilt.
+
+Diese Datenschutzerklärung ist wirksam ab dem 07.06.2026.
+
+**Ihre Zustimmung**
+
+Durch die Nutzung der Anwendung stimmen Sie der Verarbeitung Ihrer Daten gemäß dieser Datenschutzerklärung in ihrer aktuellen und von uns geänderten Fassung zu.
+
+**Kontakt**
+
+Wenn Sie während der Nutzung der Anwendung Fragen zum Datenschutz oder zu unseren Praktiken haben, kontaktieren Sie uns bitte per E-Mail unter jonurce2@gmail.com.
+
+* * *
+
+Diese Datenschutzerklärung wurde mit dem [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/) erstellt.
